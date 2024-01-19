@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @jaideep2508
+- 👋 Hi, I’m @jaideep
 - 👀 I’m interested in simulation and machine learning
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python and quantum computing
+       also intrested in DFT calculations.
 - 💞️ I’m looking to collaborate on theoretical physics 
 - 📫 How to reach me jus mail me
 -  lets together make this classical world to quantum era.
