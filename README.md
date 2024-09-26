@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @jaideep
+- 👋 Hi, I’m @jaideep Tanwar
 - 👀 I’m interested in simulation and machine learning
 - 🌱 I’m currently learning Python and quantum computing
        also intrested in DFT calculations.
-- 💞️ I’m looking to collaborate on theoretical physics 
-- 📫 How to reach me jus mail me
+- 💞️ I’m looking to collaborate on High Energy physics 
+- 📫 How to reach me jus mail me at Jaideep.tanwar@cern.ch
 -  lets together make this classical world to quantum era.
   
 <!---
